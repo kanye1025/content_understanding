@@ -1,0 +1,20 @@
+BTC;比特币;bitcoin;bitcoins;btc
+ETH;以太币;以太坊;eth;ethereum
+DOGE;狗狗币;Dogecoin
+NFT;NFTs;nft;nfts
+数字藏品;藏品
+虚拟币;虚拟货币;数字货币;加密货币
+数字人;虚拟人
+数字资产;虚拟资产
+AR/VR;AR;VR;Augmented Reality;Virtual Reality;VirtuaReal;virtualreal;virtualreality
+DeFi;defi
+Cryptocurrency;cryptocurrencies
+Blockchain;blockchain
+Social Graph;social graph
+GameFi;Gamefi
+Cross-Chain;CrossChain
+Muti-Chain;MutiChain
+Stablecoin;stablecoins;stable currency;stable currencies
+Metaverse;元宇宙
+digital collectible;digital collectibles
+Layer 2;Layer2

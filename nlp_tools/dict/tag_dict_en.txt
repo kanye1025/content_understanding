@@ -1,0 +1,24 @@
+coinTag:BTC
+coinTag:ETH
+coinTag:DOGE
+coinTag:HT
+coinTag:LTC
+coinTag:LINK
+coinTag:SHIB
+coinTag:NFT
+coinTag:DAO
+coinTag:DeFi
+Metaverse
+Blockchain
+AR/VR
+Web3
+Cryptocurrency
+Social Graph
+GameFi
+Cross-Chain
+Muti-Chain
+Stablecoin
+Layer 2
+CBDC
+Mining Pool
+Investing

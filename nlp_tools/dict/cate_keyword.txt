@@ -1,0 +1,50 @@
+cate_map
+数字资产	比特币 以太币 其他代币 NFT 数字货币 数字技术行情 交易平台资讯
+元宇宙	元宇宙社交 元宇宙电商 元宇宙旅游 数字人 AR/VR 元宇宙行情
+区块链	区块链技术 web3.0 DeFi
+安全	合规合法 信息安全 个人隐私
+活动	技术峰会 比赛 其他活动
+金融	金融科技 股市 投融资
+娱乐	游戏娱乐 体育运动
+
+
+first_class_key
+元宇宙	元宇宙 meta Metaverse
+
+
+second_class_key
+比特币	比特币 BTC
+以太币	以太币 ETH Ethereum
+其他代币	代币 altcoin 山寨币
+NFT	NFT nft
+数字货币	数字货币 DigiCash CBDC
+数字技术行情	数字技术行情 数字技术 数字化 digitization
+交易平台资讯	交易平台资讯 交易平台 交易所 trading trade
+元宇宙社交	社交 social
+元宇宙电商	电商 shop shopping
+元宇宙旅游	旅游 travelDigiPeople
+数字人	数字人 虚拟人
+AR/VR	AR/VR AR VR 增强现实 虚拟现实 3D 4D Virtual
+元宇宙行情	元宇宙行情 现状 Development Status
+区块链技术	区块链现状 区块链技术 区块链行情 现状 blockchain
+web3.0	web3.0 web3
+DeFi	defi DeFi Defi
+信息安全	信息安全 系统安全 技术安全 safety
+个人隐私	个人隐私 隐私 privacy
+合规合法	合规 合法 compliance legal
+技术峰会	技术分享 峰会 summit
+比赛	比赛 competition
+其他活动	宣传 路演 publicity advertise
+金融科技	金融科技 finance financial
+股市	股市 stock
+投融资	投融资 投资 融资 investment invest financing
+游戏娱乐	游戏娱乐 游戏 娱乐 game entertainment gamefi
+体育运动	体育运动 体育 Sports Sport athletics
+
+
+patterns
+数字货币	digital cash
+数字人	digital human
+信息安全	information safety
+AR/VR	Augmented Reality
+AR/VR	Virtual Reality

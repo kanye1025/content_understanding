@@ -1,0 +1,10 @@
+比特币,BTC
+bitcoin,BTC
+bitcoins,BTC
+以太币,ETH
+以太坊,ETH
+ethereum,ETH
+狗狗币,DOGE
+Dogecoin,DOGE
+
+

@@ -1,0 +1,7 @@
+
+
+
+from ..text.summary import  get_summary
+document="【音频订阅服务商Spotify将在Roblox推出互动创作虚拟地块“Spotify Island”】据Spotify官方网站消息，这家全球音频订阅服务商巨头宣布将透过游戏建立平台Roblox进入元宇宙世界，并创立一个名为Spotify Island的互动空间，该空间是一个用户可以创作音乐、在虚拟场所放松并获得独家虚拟商品的地方。Spotify全新虚拟体验将成为粉丝和艺术家联系的一种方式，无需订阅Spotify，玩家将能够探索这个拥有 Spotify 绿色主题森林区域的岛屿。对于喜欢寻找收藏品的玩家，Spotify岛也有一大堆复活节彩蛋可供寻找，玩家还可以创建和玩游戏、完成互动任务、解锁独家虚拟商品，甚至在岛上获得更多音乐体验。对于更有创意的Roblox玩家，他们将能够通过在由Spotify的线上录音平台Soundtrap提供支持的虚拟节拍器站上创作音乐和探索声音，进入Spotify岛的沉浸式音乐体验。"
+
+print(get_summary(document))

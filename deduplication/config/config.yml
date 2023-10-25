@@ -1,0 +1,6 @@
+simhash:
+  len_limit : 5000
+  re_max_len : 9999
+  save_path : 'simhash_index.pickle'
+  long_tolerance : 7
+  short_tolerance : 3
